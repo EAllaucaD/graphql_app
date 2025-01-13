@@ -71,3 +71,5 @@ You can test a simple Hello World query like this:
 ```
 
 ## 🎨 Preview
+
+![image](https://github.com/user-attachments/assets/9a4e21e8-0920-4f5d-8483-6a30468af22f)
